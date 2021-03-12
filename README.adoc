@@ -3,3 +3,12 @@
 A very simple (no PHP code) Magento extension which adds an item's stock quantity to its extended_attributes available from the REST API.
 
 It basically just uses the "`Search extension attributes`" sample snippet from the official documentation: https://devdocs.magento.com/guides/v2.4/extension-dev-guide/attributes.html#search
+
+== Installation
+
+Copy the `ONPC/` directory tree to `app/code/` in your Magento root:
+
+```
+php bin/magento setup:upgrade
+php bin/magento setup:di:compile
+```
