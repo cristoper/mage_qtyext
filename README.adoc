@@ -12,3 +12,8 @@ Copy the `ONPC/` directory tree to `app/code/` in your Magento root:
 php bin/magento setup:upgrade
 php bin/magento setup:di:compile
 ```
+
+Minimal resource access required for the API token making the request:
+
+- Category:Inventory:Products
+- Stoes:Settings:Configuration:Inventory Section
