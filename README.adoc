@@ -20,4 +20,6 @@ Minimal resource access required for the API token making the request:
 
 == See also
 
-For a module that adds all of the stock_item attributes to the results, see: https://github.com/menacoders/Stock-Info-API-searchCriteria
+- https://catswhisker.xyz/log/2021/8/22/magento_sucks/["I Hate Magento"]
+
+- For a module that adds all of the stock_item attributes to the results, see: https://github.com/menacoders/Stock-Info-API-searchCriteria
