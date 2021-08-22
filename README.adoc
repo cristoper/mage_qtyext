@@ -17,3 +17,7 @@ Minimal resource access required for the API token making the request:
 
 - Category:Inventory:Products
 - Stoes:Settings:Configuration:Inventory Section
+
+== See also
+
+For a module that adds all of the stock_item attributes to the results, see: https://github.com/menacoders/Stock-Info-API-searchCriteria
