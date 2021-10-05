@@ -1,6 +1,6 @@
 = QtyExt
 
-A very simple (no PHP code) Magento extension which adds an item's stock quantity to its extended_attributes available from the REST API.
+A very simple (no PHP code) Magento extension which adds an item's stock quantity to its extension_attributes available from the REST API.
 
 It basically just uses the "`Search extension attributes`" sample snippet from the official documentation: https://devdocs.magento.com/guides/v2.4/extension-dev-guide/attributes.html#search
 
